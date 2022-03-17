@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/drawable/bg_gradient.xml" value="0.195097037793667" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/drawable/bg_gradient_orange.xml" value="0.19895833333333332" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/drawable/bg_gradient_purple.xml" value="0.195097037793667" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/drawable/bg_rounded_blue.xml" value="0.19375" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/drawable/bg_rounded_white.xml" value="0.195097037793667" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/drawable/bg_rounded_white_stroke.xml" value="0.19375" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/drawable/switch_thum.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/drawable/switch_thumb.xml" value="0.13796296296296295" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/drawable/switch_track.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/layout/activity_one_time_alarm.xml" value="0.75" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/layout/activity_repeating_alarm.xml" value="0.1734375" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/layout/row_item_alarm.xml" value="0.17083333333333334" />
+        <entry key="..\:/AndroidStudioProjects/CurriculumRPL/SmartAlarm/app/src/main/res/layout/set_reminder.xml" value="0.17864583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
